@@ -1,0 +1,9 @@
+.thumbnail-img {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+
+.addOpacity {
+  opacity: 0.5;
+}
